@@ -1,7 +1,8 @@
 [![Build Status](https://travis-ci.com/odoocr/l10n_cr.svg?branch=12.0)](https://travis-ci.com/odoocr/l10n_cr)
 
 *** ESTE REPOSITORIO HACE UN GIT CHECKOUT A UN COMMIT ANTERIOR PARA RESOLVER UN ERROR QUE EXISTE EN ESTE MOMENTO EN EL REP OFICIAL ***
-ESTE NO ES EL REP OFICIL
+
+ESTE NO ES EL REP OFICIAL
 
 Para ayuda y soporte la comunidad de Odoo CR cuenta con un grupo en Telegram: https://t.me/OdooCR
 
